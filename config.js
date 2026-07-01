@@ -8,5 +8,5 @@
    Row Level Security (RLS) di database, bukan lewat kerahasiaan key ini.
    ========================================================= */
 
-const SUPABASE_URL = 'https://supabase.com/dashboard/project/doxxsyunqvogeccvizjs';
+const SUPABASE_URL = 'https://doxxsyunqvogeccvizjs.supabase.co/rest/v1/';
 const SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImRveHhzeXVucXZvZ2VjY3ZpempzIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODI5MDA1MTcsImV4cCI6MjA5ODQ3NjUxN30.xs-dXc0jnq8c_MAOFTTyu6-wqejqyxBrloiU2BTgJN0';
